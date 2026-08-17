@@ -1,6 +1,6 @@
 # InsightFlow – Intelligent Business Analytics Platform
 
-🚀 **[Live Demo](https://insightflowdashboard.streamlit.app)/** | 💻 **[GitHub Repository]([YOUR_GITHUB_URL](https://github.com/Vishnu-2335/InsightFlow))**
+🚀 **[Live Demo](https://insightflowdashboard.streamlit.app)/** | 💻 **[GitHub Repository]([YOUR_GITHUB_URL](https://github.com/Vishnu-2335/InsightFlow)**
 
 InsightFlow is an interactive business analytics dashboard built with Python and Streamlit. It allows users to upload CSV or Excel datasets and automatically transforms the data into useful business insights, visualizations, profiling information, and advanced analytics.
 
